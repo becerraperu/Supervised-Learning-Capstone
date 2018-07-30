@@ -1,5 +1,5 @@
-# Supervised-Learning-Capstone
+# Churn in Telecommunications
 
-Churn in Telecommunications
+Supervised-Learning-Capstone
 
-- Will Becerra
+Will Becerra
